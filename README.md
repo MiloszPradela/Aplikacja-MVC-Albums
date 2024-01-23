@@ -25,8 +25,10 @@ Baza danych seedowana jest automatycznie, wcześniej jednak należy użyć Packa
 
 
 
-Podstawowe dane logowania:
-admin@wsei.edu.pl / ZAQ!2wsx123
-user@wsei.edu.pl / ZAQ!2wsx123
+##Podstawowe dane logowania:
+<h3>Admin</h3>
+<p>admin@wsei.edu.pl / ZAQ!2wsx123</p> 
+<h3>User</h3> 
+<p>user@wsei.edu.pl / ZAQ!2wsx123</p>
 
 Panel Admin jest dostępny tylko dla użytkowników z rolą Admin.
